@@ -8,7 +8,7 @@
 
 [UMG 0.1 (‎July ‎13, ‎2024)](https://www.mediafire.com/file/lg1tnhmeq6xyheu/Untitled_Monkey_Game_V0.0.1.apk/file)
 
-[UMG 0.2 (‎August ‎4, ‎2024)](https://www.mediafire.com/file/lg1tnhmeq6xyheu/Untitled_Monkey_Game_V0.0.2.apk/file)
+[UMG 0.2 (‎August ‎4, ‎2024)](https://www.mediafire.com/file/srrt731ekie45w6/Untitled_Monkey_Game_V0.0.2.apk/file)
 
 [CRV1 Remake (‎November ‎23, ‎2024 Build)](https://www.mediafire.com/file/qp657cw7twd2doh/Cube+Runners+V1+Remade.apk/file)
 
